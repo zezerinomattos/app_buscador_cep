@@ -12,7 +12,7 @@ Android ou iOS SDK configurado no ambiente de desenvolvimento
 
 1: Clone o repositório do projeto:
 
-git clone https://github.com/seu-usuario/app_buscador_cep.git
+git clone https://github.com/zezerinomattos/app_buscador_cep.git
 
 cd app_buscador_cep
 
